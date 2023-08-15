@@ -1,0 +1,9 @@
+In this problem we want to count a pattern in the main string.
+Description :
+We have two strings as inputs. First as main string and Second as pattern and we have to count occurrences.
+Example :
+saippuakauppias
+pp
+Process :
+sai + pp + uakau + pp + ias
+So as we see, we have 2 'pp' then answer is 2.
